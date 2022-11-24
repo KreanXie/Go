@@ -1,2 +1,4 @@
-# Go
-A normal CS student`s go learning process
+# KreanXie
+A normal CS student from China
+Learning go and alogrithm
+Wanna attend in Tencent
